@@ -1,0 +1,1 @@
+# Scribo.JS Template
